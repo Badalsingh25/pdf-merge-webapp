@@ -97,11 +97,10 @@ No login required — upload multiple PDFs and merge them instantly.
 
 ### 📸 Screenshots
 
-### 🔹 Restaurant Owner Screenshots
+### 🔹 Application Screenshots
 
 1️⃣ **PDF Upload & Drag-and-Drop Interface**
 <img width="1919" height="907" alt="Screenshot 2025-11-28 193900" src="https://github.com/user-attachments/assets/68943b7a-a64d-47a2-aaae-ee1dec552885" />
-
 
 2️⃣ **Smart PDF Processing Highlights**  
 <img width="1919" height="916" alt="Screenshot 2025-11-28 193922" src="https://github.com/user-attachments/assets/98bd5b7c-7aff-456c-9c2f-74d613b59ea8" />
