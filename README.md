@@ -67,3 +67,24 @@ PDF-Merge-WebApp/
 ├── server.js               # Express server
 ├── package.json
 └── README.md
+
+---
+
+🚀 Getting Started
+📌 Prerequisites
+
+Node.js installed on system
+
+▶️ Run Locally
+git clone https://github.com/<your-username>/pdf-merge-webapp.git
+cd pdf-merge-webapp
+npm install
+npm start
+
+
+Server will run at:
+
+http://localhost:3000
+
+
+Open the URL → upload PDFs → merge instantly.
